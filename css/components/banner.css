@@ -1,0 +1,24 @@
+.banner{
+    width: 100%;
+    padding: 200px 250px;
+    color: white;
+}
+.banner h1{
+    font-size: 37px;
+    font-weight: bold;
+}
+.banner h3{
+    opacity: 0.7;
+}
+.banner a{
+    text-decoration: none;
+    padding: 20px 40px;
+    border-radius: 50px;
+    color: white;
+    display: inline-block;
+    background-color: #1EDD88;
+    transition: 0.4s;
+}
+.banner a:hover{
+    background-color: brown;
+}
